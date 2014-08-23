@@ -1,6 +1,6 @@
 # PHP Unscramble
 
-Author (Jesse Boyer/JREAM)[http://jream.com]
+Author [Jesse Boyer (JREAM)](http://jream.com)
 
 ## Description
 
